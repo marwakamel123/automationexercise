@@ -1,0 +1,10 @@
+{
+  "expectedUserNameKey" : "marwa kamel",
+  "allProdVerifKey" :"ALL PRODUCTS",
+  "searchTextKey" : "Sleeveless",
+  "numOfprodKey" : "3",
+  "allProdEMSGKey" : "Header should be: ALL PRODUCTS ",
+  "numOfProdEMSGKey" : "Search result should be 3 products",
+  "searchResulEMSGKey" : "Products search Result ",
+  "userNameEMSGKey" : "the user name: marwa kamel should be displayed on home page after login"
+}
