@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Assignment4POM - Copynew" />
+        <module name="Assignment4POMCart1" />
+        <module name="Assignment4-Edited" />
+        <module name="Assignment4POMCart" />
+        <module name="Assignment4POM" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
